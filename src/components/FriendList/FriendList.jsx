@@ -23,5 +23,5 @@ FriendList.propTypes = {
             name: PropTypes.string.isRequired,
             avatar: PropTypes.string.isRequired,
    })
-    )
+  ),
 }
